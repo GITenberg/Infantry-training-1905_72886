@@ -1,0 +1,35 @@
+_repo: Infantry-training-1905_72886
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2024-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72886'
+language: en
+pgterms:marc904: https://archive.org/details/infantrytraining00grea/page/148/mode/2up
+pgterms:marc905: 20210825043802author
+pgterms:marc906: '1905'
+pgterms:marc907: GB
+production_note: Brian Coe, Thiers Halliwell, who created the book cover, which is
+  placed in the public domain, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bHM Stationery Office, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Infantry training, 1905
+url: http://www.gutenberg.org/ebooks/72886
